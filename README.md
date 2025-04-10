@@ -14,9 +14,5 @@ pip install -r requirements.txt
 streamlit run streamlit_app.py
 ```
 
-## Deployment on Streamlit Cloud
-1. Push this folder to GitHub
-2. Go to [streamlit.io/cloud](https://streamlit.io/cloud)
-3. Connect your repo and deploy!
-
+The APP is LIVE -    https://bulk-email-sender-raj-aryan.streamlit.app/
 Made by Raj Aryan 🚀
